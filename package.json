@@ -1,0 +1,34 @@
+{
+  "name": "talk-generating-graphql-apis",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "spectacle-code-slide": "^0.5.2",
+    "spectacle-scripts": "^2.1.3",
+    "tachyons": "^4.11.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-standard": "^4.0.0",
+    "prettier-eslint": "^8.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build && rm -rf docs && mv build docs",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
