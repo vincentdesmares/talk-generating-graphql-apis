@@ -22,7 +22,7 @@ export default (
       As Dev, Lead Dev and Project Manager.
     </Text>
     <Text textColor="blue" style={{ marginTop: 50 }}>
-      CTO @ Teamstarter for 1 year.
+      Now CTO @ Teamstarter for 1 year.
     </Text>
   </Slide>
 )

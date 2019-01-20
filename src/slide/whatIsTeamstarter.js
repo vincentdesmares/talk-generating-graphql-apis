@@ -25,7 +25,7 @@ export default (
     <Heading size={1} caps lineHeight={1} textColor="white">
       What's teamstarter?
     </Heading>
-    <Text textColor="black" fit>
+    <Text textColor="black" fit bold>
       It's like kickstarter in your organization.
     </Text>
     <Text textColor="white">Your budget, your project, your culture.</Text>

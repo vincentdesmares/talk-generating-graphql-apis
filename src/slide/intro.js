@@ -19,10 +19,10 @@ export default (
       </ol>
     </Notes>
     <Heading size={1} caps fit textColor="black">
-      GENERATED
+      GENERATING
     </Heading>
     <Heading size={1} caps fit textColor="black">
-      GRAPHQL API
+      GRAPHQL APIS
     </Heading>
     <div style={{ height: 50 }}> </div>
     <Text textColor="pink" fit bold>
@@ -30,7 +30,7 @@ export default (
     </Text>
     <div style={{ height: 50 }}> </div>
     <Text textColor="blue" fit>
-      from my work on Teamstarter
+      with graphql-sequelize-generator
     </Text>
     <img
       src="assets/images/logo-cut.svg"

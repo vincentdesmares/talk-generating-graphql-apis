@@ -7,6 +7,12 @@ import 'tachyons/css/tachyons.min.css'
 import Questions from './slide/questions'
 import Me from './slide/me'
 import WhatIsTeamstarter from './slide/whatIsTeamstarter'
+import sectionRestVSGraphQL from './slide/sectionRestVSGraphQL'
+import sectionGSGSolves from './slide/sectionGSGSolves'
+import sectionGSGDoesNotSolves from './slide/sectionGSGDoesNotSolves'
+import demo from './slide/demo'
+import queryREST from './slide/queryREST'
+import queryGraphQL from './slide/queryGraphQL'
 
 require('normalize.css')
 
@@ -32,6 +38,12 @@ export default class Presentation extends React.Component {
         {Intro}
         {Me}
         {WhatIsTeamstarter}
+        {sectionRestVSGraphQL}
+        {queryREST}
+        {queryGraphQL}
+        {sectionGSGSolves}
+        {demo}
+        {sectionGSGDoesNotSolves}
         {Questions}
       </Deck>
     )
