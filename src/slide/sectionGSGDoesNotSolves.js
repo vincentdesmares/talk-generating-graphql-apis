@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Slide, Notes } from 'spectacle'
+import { Heading, Slide, Notes, Text, Appear } from 'spectacle'
 
 export default (
   <Slide
@@ -17,5 +17,10 @@ export default (
     <Heading size={1} caps lineHeight={1} fit textColor="purple">
       DOES NOT SOLVES
     </Heading>
+    <Appear>
+      <Text fit bold textColor="pink">
+        Most of your problems :)
+      </Text>
+    </Appear>
   </Slide>
 )

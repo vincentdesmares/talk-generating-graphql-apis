@@ -1,5 +1,5 @@
 import React from 'react'
-import { Heading, Slide, Text, Notes, List, ListItem } from 'spectacle'
+import { Heading, Slide, Notes, List, ListItem } from 'spectacle'
 
 export default (
   <Slide
@@ -13,17 +13,15 @@ export default (
         <li>a</li>
       </ul>
     </Notes>
-    <Heading size={1} caps lineHeight={1} textColor="pink">
-      How GraphQL work server side?
+    <Heading bold size={1} caps lineHeight={1} textColor="pink">
+      How GraphQL works server side?
     </Heading>
-    <Text>Define a schema (Fields + type)</Text>
-    <Text margin="10px 0 0" textColor="black" size={0.5}>
-      <List>
-        <ListItem>Root "Field"</ListItem>
-      </List>
-    </Text>
-    <Text bold fit>
-      Implement a "Resolver" per type + default resolvers
-    </Text>
+    <List>
+      <ListItem>GraphQL is not just a RFC!</ListItem>
+      <ListItem>Define "Types" (item, category, file, etc...)</ListItem>
+      <ListItem>Compose "fields" based on those Types</ListItem>
+      <ListItem>Implement a "Resolver" per type</ListItem>
+      <ListItem>Compose basic Types and their resolvers</ListItem>
+    </List>
   </Slide>
 )

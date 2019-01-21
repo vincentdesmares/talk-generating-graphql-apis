@@ -76,9 +76,9 @@ export default (
     <Text textSize={30} style={{ marginTop: 50 }}>
       <a
         className="dib"
-        href="https://github.com/vincentdesmares/from-dev-to-startup-cto"
+        href="https://github.com/vincentdesmares/talk-generating-graphql-apis"
       >
-        https://github.com/vincentdesmares/from-dev-to-startup-cto
+        https://github.com/vincentdesmares/talk-generating-graphql-apis
       </a>
     </Text>
     <div

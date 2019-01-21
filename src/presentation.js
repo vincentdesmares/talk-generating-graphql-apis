@@ -13,6 +13,15 @@ import sectionGSGDoesNotSolves from './slide/sectionGSGDoesNotSolves'
 import demo from './slide/demo'
 import queryREST from './slide/queryREST'
 import queryGraphQL from './slide/queryGraphQL'
+import serverSide from './slide/serverSide'
+import whyGSG from './slide/whyGSG'
+import whatIsSolved from './slide/whatIsSolved'
+import toTheInfinite from './slide/toTheInfinite'
+import nQueries from './slide/nQueries'
+import roadmap from './slide/roadmap'
+import generation from './slide/generation'
+import whyThisTalk from './slide/whyThisTalk'
+import niceToHave from './slide/niceToHave'
 
 require('normalize.css')
 
@@ -41,9 +50,18 @@ export default class Presentation extends React.Component {
         {sectionRestVSGraphQL}
         {queryREST}
         {queryGraphQL}
+        {serverSide}
+        {whyGSG}
         {sectionGSGSolves}
+        {whatIsSolved}
+        {niceToHave}
         {demo}
         {sectionGSGDoesNotSolves}
+        {toTheInfinite}
+        {nQueries}
+        {roadmap}
+        {generation}
+        {whyThisTalk}
         {Questions}
       </Deck>
     )
