@@ -20,28 +20,7 @@ export default (
     <div className="flex pt4">
       <div>
         <div style={{ height: 800, width: 400, fontSize: '20px' }}>
-          <CodePane
-            style={{ fontSize: '20px' }}
-            theme={'light'}
-            lang={'graphql'}
-            source={`query mainPage {
-    item(category: 2) {
-        id
-        name
-        category {
-            name
-        }
-        picture {
-            url
-            title
-        }
-        file {
-            url
-            title
-        }
-    }
-}`}
-          />
+          <img src="assets/images/query.png" style={{ height: 500 }} />
         </div>
       </div>
       <img
