@@ -23,6 +23,7 @@ More about GraphQL:
 - [Graphql Europe 2018](https://medium.com/graphqlconf/watch-all-talks-from-graphql-europe-2018-4a47ee28570a)
 - [Slides: introduction-to-graphql-or-how-i-learned-to-stop-worrying-about-rest-apis](https://www.slideshare.net/AhmadHafizIsmail/introduction-to-graphql-or-how-i-learned-to-stop-worrying-about-rest-apis)
 - [Slides : graphql-is-the-better-rest](https://www.slideshare.net/DataWorksMD/graphql-is-the-better-rest?qid=c1e36de6-f4f2-4a9f-87c5-fe6ec9404ccc&v=&b=&from_search=1)
+- [Top 5 GraphQL predictions for 2019](https://medium.com/graphqlconf/top-5-graphql-predictions-for-2019-6f281f16fac1?source=collection_home---6------0---------------------)
 
 More about generating things related to Graphql:
 

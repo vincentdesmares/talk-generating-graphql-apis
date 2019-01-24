@@ -14,6 +14,8 @@ export default (
     <List>
       <ListItem>Generate TypeScript types from schema</ListItem>
       <ListItem>Generate Schema from TypeScript types</ListItem>
+      <ListItem>"Resolver-first" frameworks</ListItem>
+      <ListItem>https://graphql-nexus.com/</ListItem>
     </List>
   </Slide>
 )
