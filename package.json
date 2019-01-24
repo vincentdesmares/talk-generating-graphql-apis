@@ -7,6 +7,7 @@
     "react-dom": "^16.5.2",
     "spectacle-code-slide": "^0.5.2",
     "spectacle-scripts": "^2.1.3",
+    "standard-version": "^4.4.0",
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
@@ -23,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build && rm -rf docs && mv build docs",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "release": "standard-version"
   },
   "browserslist": [
     ">0.2%",
