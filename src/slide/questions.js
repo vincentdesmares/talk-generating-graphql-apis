@@ -76,6 +76,14 @@ export default (
     <Text textSize={30} style={{ marginTop: 50 }}>
       <a
         className="dib"
+        href="https://github.com/matterstech/graphql-sequelize-generator"
+      >
+        https://github.com/matterstech/graphql-sequelize-generator
+      </a>
+      <br />
+      <br />
+      <a
+        className="dib"
         href="https://github.com/vincentdesmares/talk-generating-graphql-apis"
       >
         https://github.com/vincentdesmares/talk-generating-graphql-apis
@@ -84,7 +92,7 @@ export default (
     <div
       className="pyro"
       style={{
-        zIndex: -1,
+        zIndex: 2,
         position: 'absolute',
         top: 0,
         width: '100%',

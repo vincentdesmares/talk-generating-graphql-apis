@@ -13,9 +13,9 @@ export default (
     </Heading>
     <List>
       <ListItem>Field blacklist</ListItem>
-      <ListItem>removeUnusedAttributes</ListItem>
       <ListItem>Count resolvers</ListItem>
-      <ListItem>allow order on associations</ListItem>
+      <ListItem>Allow order on associations</ListItem>
+      <ListItem>Fetch only the requested columns</ListItem>
     </List>
   </Slide>
 )

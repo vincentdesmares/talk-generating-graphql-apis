@@ -15,8 +15,8 @@ export default (
       <ListItem>Configurable models access</ListItem>
       <ListItem>All CRUD operations</ListItem>
       <ListItem>Before/after hooks on all CRUD operations.</ListItem>
-      <ListItem>Subscriptions</ListItem>
       <ListItem>Custom fields & mutations</ListItem>
+      <ListItem>Subscriptions (data push)</ListItem>
     </List>
   </Slide>
 )

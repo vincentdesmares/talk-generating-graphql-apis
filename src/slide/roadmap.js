@@ -1,5 +1,5 @@
 import React from 'react'
-import { Slide, Heading, List, ListItem } from 'spectacle'
+import { Slide, Heading, List, ListItem, Notes } from 'spectacle'
 
 export default (
   <Slide
@@ -8,6 +8,9 @@ export default (
     progressColor="black"
     controlColor="black"
   >
+    <Notes>
+      <p>Use it, we are here to support you.</p>
+    </Notes>
     <Heading fit textColor="purple" caps>
       ROADMAP
     </Heading>

@@ -18,10 +18,17 @@ export default (
     </Heading>
     <List>
       <ListItem>GraphQL is not just a RFC!</ListItem>
-      <ListItem>Define "Types" (item, category, file, etc...)</ListItem>
-      <ListItem>Compose "fields" based on those Types</ListItem>
-      <ListItem>Implement a "Resolver" per type</ListItem>
-      <ListItem>Compose basic Types and their resolvers</ListItem>
+      <ListItem>Provide a "schema" to the server</ListItem>
+      <ListItem>
+        Define "Types" => <b>repetitive</b>
+      </ListItem>
+      <ListItem>
+        Compose "fields" with Types => <b>tedious</b>
+      </ListItem>
+      <ListItem>
+        Implement a "Resolver" per type => <b>boring</b>
+      </ListItem>
+      <ListItem>Mutations = Operations that mutates</ListItem>
     </List>
   </Slide>
 )

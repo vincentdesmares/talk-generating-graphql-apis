@@ -54,8 +54,8 @@ export default class Presentation extends React.Component {
         {whyGSG}
         {sectionGSGSolves}
         {whatIsSolved}
-        {niceToHave}
         {demo}
+        {niceToHave}
         {sectionGSGDoesNotSolves}
         {toTheInfinite}
         {nQueries}

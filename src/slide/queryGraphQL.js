@@ -9,7 +9,11 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <Notes />
+    <Notes>
+      <p>Many types of entity</p>
+      <p>One call</p>
+      <p>Link: But how to code that while the query is fully dynamic?</p>
+    </Notes>
     <Heading size={6} textColor="pink" caps fit>
       A GrahpQL Query
     </Heading>

@@ -14,6 +14,8 @@ export default (
     <Heading size={1} caps lineHeight={1} fit textColor="black">
       WHAT GSG SOLVES
     </Heading>
-    <Text fit>Or at least tries to solves</Text>
+    <Text fit textColor="purple">
+      Or at least tries to solves
+    </Text>
   </Slide>
 )

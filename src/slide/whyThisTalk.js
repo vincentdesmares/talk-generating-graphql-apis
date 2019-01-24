@@ -1,5 +1,5 @@
 import React from 'react'
-import { Slide, Heading, List, ListItem } from 'spectacle'
+import { Slide, Heading, List, ListItem, Text } from 'spectacle'
 
 export default (
   <Slide
@@ -12,11 +12,13 @@ export default (
       Why did I made this talk
     </Heading>
     <List>
-      <ListItem>Struggling with abstraction is a daily adventure</ListItem>
-      <ListItem>The more I share them the more I understand them</ListItem>
-      <ListItem>The more I'm able to simply them</ListItem>
+      <ListItem>Struggling with abstraction is normal</ListItem>
+      <ListItem>The more I share the more I understand</ListItem>
+      <ListItem>The more I'm able to simplify them</ListItem>
       <ListItem>The more I'm able to write good code</ListItem>
-      <ListItem>Share your abstractions! Share your code!</ListItem>
     </List>
+    <Text bold fit caps>
+      Share your abstractions!
+    </Text>
   </Slide>
 )

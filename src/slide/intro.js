@@ -9,14 +9,26 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>I'm happy to be there to share my experience</p>
-      <p>4 parts, 3 Axis</p>
-      <ol>
-        <li>Me & the product</li>
-        <li>on the Tech</li>
-        <li>on the design</li>
-        <li>the Soft skills</li>
-      </ol>
+      <p>ASK QUESTION ABOUT SERVER SIDE CODE</p>
+      <p>
+        Due to the graph behavior of graphQ, writting server side code for a
+        GraphQL schema can be more tedious than for a basic REST API
+      </p>
+      <p>
+        {' '}
+        In the talk, through the story of graphql-sequelize-generator, we will
+        see what challenges you could face, and some thumb rules to deal with
+        them.
+      </p>
+      <p>No need to be JS/Node/Express expert.</p>
+      <p>
+        <li>
+          <ul>1) Server side GraphQL VS REST</ul>
+          <ul>2) What GSG solves</ul>
+          <ul>3) What is still up to you</ul>
+          <ul>4) New trends & conclusion</ul>
+        </li>
+      </p>
     </Notes>
     <Heading size={1} caps fit textColor="black">
       GENERATING
@@ -29,7 +41,7 @@ export default (
       Quick and efficient dev
     </Text>
     <div style={{ height: 50 }}> </div>
-    <Text textColor="blue" fit>
+    <Text textColor="blue" fit bold>
       with graphql-sequelize-generator
     </Text>
     <img

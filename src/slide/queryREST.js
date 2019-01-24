@@ -9,7 +9,9 @@ export default (
     progressColor="black"
     controlColor="black"
   >
-    <Notes />
+    <Notes>
+      <p>Only on type of entity</p>
+    </Notes>
     <Heading size={6} textColor="pink" caps fit>
       A REST Query
     </Heading>
