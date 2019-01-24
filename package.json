@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "dependencies": {
+    "prismjs": "1.6.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "spectacle-code-slide": "^0.5.2",

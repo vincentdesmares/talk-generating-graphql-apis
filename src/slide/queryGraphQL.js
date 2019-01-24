@@ -45,7 +45,7 @@ export default (
         </div>
       </div>
       <img
-        className="pt5  "
+        className="pt5"
         src="assets/images/graphql.png"
         style={{ height: 400 }}
       />

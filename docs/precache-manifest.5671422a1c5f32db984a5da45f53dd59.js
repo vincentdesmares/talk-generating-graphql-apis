@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/runtime~main.5abf93a9.js"
   },
   {
-    "revision": "e30cf5899ac20fa44d1a",
-    "url": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.e30cf589.chunk.js"
+    "revision": "838ec235400975e1c615",
+    "url": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.838ec235.chunk.js"
   },
   {
     "revision": "add239d2bd0c56feaf3a",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/css/1.1e027313.chunk.css"
   },
   {
-    "revision": "cacce03c6de25825ed13614265e41c00",
+    "revision": "c021b1bf7abfa030bf5042f0a9db9eb0",
     "url": "https://vincentdesmares.github.io/talk-generating-graphql-apis/index.html"
   }
 ];
