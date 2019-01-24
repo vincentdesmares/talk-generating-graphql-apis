@@ -1,6 +1,6 @@
 {
-  "main.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.87c08bba.chunk.js",
-  "main.js.map": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.87c08bba.chunk.js.map",
+  "main.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.e30cf589.chunk.js",
+  "main.js.map": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/main.e30cf589.chunk.js.map",
   "static/css/1.1e027313.chunk.css": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/css/1.1e027313.chunk.css",
   "static/js/1.add239d2.chunk.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/1.add239d2.chunk.js",
   "static/js/1.add239d2.chunk.js.map": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/1.add239d2.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/js/runtime~main.5abf93a9.js.map",
   "static/css/1.1e027313.chunk.css.map": "https://vincentdesmares.github.io/talk-generating-graphql-apis/static/css/1.1e027313.chunk.css.map",
   "index.html": "https://vincentdesmares.github.io/talk-generating-graphql-apis/index.html",
-  "precache-manifest.6d4130b6de0716a7a9f8c89490ecfbe5.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/precache-manifest.6d4130b6de0716a7a9f8c89490ecfbe5.js",
+  "precache-manifest.dc8e3fb8f5045c105f5ff93d0c26fee6.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/precache-manifest.dc8e3fb8f5045c105f5ff93d0c26fee6.js",
   "service-worker.js": "https://vincentdesmares.github.io/talk-generating-graphql-apis/service-worker.js"
 }
