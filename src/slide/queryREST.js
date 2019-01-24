@@ -18,6 +18,6 @@ export default (
     <Text style={{ margin: 20 }} bold textColor="black">
       /api/category/2/items
     </Text>
-    <Image src="/assets/images/rest.png" />
+    <Image src="assets/images/rest.png" />
   </Slide>
 )
