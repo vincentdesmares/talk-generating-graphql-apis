@@ -31,7 +31,7 @@ export default (
       Goals for the codebase:
     </Text>
     <Text bold fit>
-      Simple / Efficient / Maintenable
+      Simple / Efficient / maintainable
     </Text>
   </Slide>
 )

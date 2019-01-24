@@ -9,7 +9,7 @@ export default (
     controlColor="black"
   >
     <Notes>
-      <p>REST VS GRAPHQL</p>
+      <p>Not about client side</p>
     </Notes>
     <Heading size={1} caps lineHeight={1} fit textColor="black">
       REST VS GRAPHQL

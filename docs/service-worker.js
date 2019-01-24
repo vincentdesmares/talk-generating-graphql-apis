@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://vincentdesmares.github.io/talk-generating-graphql-apis/precache-manifest.893580d66f230d10f9e910f678fd7d41.js"
+  "https://vincentdesmares.github.io/talk-generating-graphql-apis/precache-manifest.863ff1bde878b66d20d9e4d2f7ba0986.js"
 );
 
 workbox.clientsClaim();
